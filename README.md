@@ -16,6 +16,8 @@ Il faut vraiment que vous connaisez au moin un de ces langages:
 
 (un suffit)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Hello World
+```
+@println('hello world')
+``` 
+println est une fonction builtin comme les autres , mais pour les appeler il faut mettre un arobase au debut
